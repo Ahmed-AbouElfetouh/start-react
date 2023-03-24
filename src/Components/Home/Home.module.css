@@ -1,0 +1,22 @@
+.home {
+  text-align: center;
+  background-color: #1ABC9C;
+}
+.home .home_content img {
+  width: 240px;
+  height: 240px;
+}
+.home .home_content i {
+  margin: auto;
+  text-align: center;
+}
+.home .home_content h1 {
+  color: #fff;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.home .home_content p{
+  margin-top: 15px;
+  color: #fff;
+  font-size: 20px;
+}

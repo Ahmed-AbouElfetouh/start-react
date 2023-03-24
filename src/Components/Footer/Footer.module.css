@@ -1,0 +1,33 @@
+footer {
+  background-color: var(--main-color);
+  text-align: center;
+}
+footer .container > div {
+  margin-bottom: 20px;
+}
+footer ul {
+  align-items: center;
+  justify-content: center;
+}
+footer ul li {
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+  margin-right: 10px;
+  border: 1px solid #fff;
+  transition: color 0.3s ease-in-out, background-color 0.3s ease-in-out;
+}
+footer ul li:hover {
+  background-color: #fff;
+  color: var(--main-color);
+}
+.copyright {
+  background-color: #1A252F;
+  color: #fff;
+  padding: 15px;
+  text-align: center;
+}

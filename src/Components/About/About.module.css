@@ -1,0 +1,14 @@
+.about {
+  background-color: #1abc9c;
+}
+.about_content {
+  margin: auto;
+}
+.about_content p {
+  margin: auto;
+  color: #fff;
+  font-size: 25px;
+}
+.about_content p:first-of-type {
+  margin-bottom: 20px;
+}
